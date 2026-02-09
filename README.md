@@ -10,10 +10,11 @@ My strength lies in understanding the machinery that powers the network. I focus
 ---
 
 ### 🛠 Technical Arsenal
-* **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration`
-* **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Cloud Migration`
-* **Tools:** `ServiceNow` `Remedy` `Salesforce` `Proprietary Moderation Tools` `Microsoft Access`
-* **Security:** `Risk Analysis` `Policy Enforcement` `Access Control` `Digital Safety`
+* **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration` `Windows 11 Admin`
+* **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Modem/Router Config` `Cloud Basics`
+* **Software:** `ServiceNow` `Remedy` `Salesforce` `Microsoft 365` `Microsoft Access`
+* **Analytics:** `Google Analytics` `SEO Auditing` `Excel Reporting` `Data Visualization`
+* **Security:** `Risk Analysis` `Policy Enforcement` `Access Control` `HIPAA Compliance` `Digital Safety`
 
 ---
 
