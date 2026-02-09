@@ -7,11 +7,32 @@ I am an IT professional dedicated to the defense of physical and digital infrast
 
 My strength lies in understanding the machinery that powers the network. I focus on hardware configuration, threat monitoring, and the strict protocols that keep environments secure. While others build the applications, I ensure the systems they run on are locked down, resilient, and always monitored.
 
-Currently pursuing my **Associate of Science in Information Technology** at **Indian River State College**, I am building a strong technical foundation to transition into advanced Network Defense and Cyber Security.
+---
+
+### 🛠 Technical Arsenal
+* **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration`
+* **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Cloud Migration`
+* **Tools:** `ServiceNow` `Salesforce` `Proprietary Moderation Tools` `Microsoft Access`
+* **Security:** `Risk Analysis` `Policy Enforcement` `Access Control` `Digital Safety`
 
 ---
 
-### Professional Experience
+### 📜 Professional Development & Training
+
+**Cisco Networking Academy**
+* **Verified Badges:** Computer Hardware Basics, Introduction to Cybersecurity, Digital Safety
+* **Focus:** Hardware configuration & foundational security principles.
+
+**CompTIA Tech+ Curriculum (Skillsoft)**
+* **Coursework Completed:** Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
+* **Status:** Comprehensive training modules completed (Pre-certification).
+
+**Microsoft Office Proficiency (McGraw Hill)**
+* **Credentials:** Essential & Intermediate Skills in Excel, Access, Word, & PowerPoint.
+
+---
+
+### 💼 Professional Experience
 
 **DHL Express | Store Lead & Operations Manager**
 *(June 2025 - Present)*
@@ -31,10 +52,11 @@ Currently pursuing my **Associate of Science in Information Technology** at **In
 
 ---
 
-### Core Competencies
-* **Infrastructure Security:** Hardware hardening & physical defense.
-* **Trust & Safety:** Policy enforcement & risk mitigation.
-* **Operational Leadership:** Team management & workflow optimization.
-* **System Integrity:** Diagnostics, maintenance, & reliability.
+### 🎓 Education
+**Indian River State College**
+*Associate of Science in Information Technology (In Progress)*
+* **Focus:** Network Defense & Cyber Security Foundations
+
+---
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/arthur-stillman)
