@@ -34,7 +34,7 @@ My strength lies in understanding the machinery that powers the network. I focus
 
 ### 💼 Professional Experience
 
-**DHL Express | Store Lead & Operations Manager**
+**DHL Express | Store Lead & Operations Lead**
 *(June 2025 - Present)*
 * **Operational Security:** Sole on-site authority responsible for inventory control, physical site security, and financial reconciliation.
 * **Process Management:** Independently manage daily logistics workflows, ensuring strict adherence to shipping protocols and chain-of-custody procedures.
@@ -49,6 +49,22 @@ My strength lies in understanding the machinery that powers the network. I focus
 *(June 2022 - July 2024)*
 * **Enterprise Leadership:** Directed a team of technical agents supporting business-tier clients, enforcing strict Service Level Agreements (SLAs) and high-availability standards.
 * **Network Continuity:** Managed high-stakes technical escalations for business networks, prioritizing rapid resolution to minimize downtime for commercial clients.
+
+**VCS Medical Associates | Sales Team Lead**
+*(Oct 2018 - Mar 2020)*
+* **Team Oversight:** Managed and mentored an 8-person unit, conducting performance audits and enforcing compliance in the regulated medical sector.
+* **Protocol Development:** Developed and implemented standardized training scripts and operational protocols to improve team efficiency.
+
+**Local Search Group | SEO Consultant**
+*(May 2018 - Sept 2018)*
+* **Web Analytics:** Executed technical SEO audits and keyword research to improve site architecture and organic visibility.
+* **Data Analysis:** Utilized analytics tools to track traffic patterns and optimize digital content strategies.
+
+---
+
+### 🕒 Early Career History
+* **Life1 Medical Alarm (2016):** Medical Device Sales Specialist (Privacy & Client Compliance).
+* **SYCN Auto Logistics (2011-2013):** Transport Broker handling complex dispatch and logistics coordination.
 
 ---
 
