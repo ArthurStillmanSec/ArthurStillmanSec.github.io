@@ -34,7 +34,7 @@ My strength lies in understanding the machinery that powers the network. I focus
 
 ### 💼 Professional Experience
 
-**DHL Express | Store Lead & Operations Lead**
+**DHL Express | Store Lead & Operations Manager**
 *(June 2025 - Present)*
 * **Operational Security:** Sole on-site authority responsible for inventory control, physical site security, and financial reconciliation.
 * **Process Management:** Independently manage daily logistics workflows, ensuring strict adherence to shipping protocols and chain-of-custody procedures.
@@ -63,6 +63,7 @@ My strength lies in understanding the machinery that powers the network. I focus
 ---
 
 ### 🕒 Early Career History
+* **Black Swan K-9 Training (2017-2018):** Client Liaison Manager responsible for scheduling, billing integrity, and account management.
 * **Life1 Medical Alarm (2016):** Medical Device Sales Specialist (Privacy & Client Compliance).
 * **SYCN Auto Logistics (2011-2013):** Transport Broker handling complex dispatch and logistics coordination.
 
