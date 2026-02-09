@@ -1,8 +1,13 @@
 # Arthur Stillman
 ### IT Operations & Security Focus
-**Location:** Port St. Lucie, FL  |  **Email:** arthurstillman90@gmail.com
 
 > "Security is about vigilance, not just software."
+
+**Location:** Port St. Lucie, FL
+**Email:** [arthurstillman90@gmail.com](mailto:arthurstillman90@gmail.com)
+**LinkedIn:** [linkedin.com/in/arthur-stillman](https://www.linkedin.com/in/arthur-stillman)
+
+---
 
 I am an IT professional dedicated to the defense of physical and digital infrastructure. With a background in operations management and technical support, I approach technology with a focus on system integrity and operational readiness.
 
@@ -78,4 +83,5 @@ My strength lies in understanding the machinery that powers the network. I focus
 
 ---
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/arthur-stillman)
+### 📬 Ready to Connect?
+**[Email Me](mailto:arthurstillman90@gmail.com)** |  **[Connect on LinkedIn](https://www.linkedin.com/in/arthur-stillman)**
