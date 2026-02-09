@@ -9,9 +9,9 @@
 
 ---
 
-I am an IT professional dedicated to the defense of physical and digital infrastructure. With a background in operations management and technical support, I approach technology with a focus on system integrity and operational readiness.
+I am an IT professional transitioning into Network Defense, leveraging over a decade of operational management experience to specialize in **Supply Chain Security** and **Physical Infrastructure Protection**.
 
-My strength lies in understanding the machinery that powers the network. I focus on hardware configuration, threat monitoring, and the strict protocols that keep environments secure. While others build the applications, I ensure the systems they run on are locked down, resilient, and always monitored.
+Unlike traditional candidates, I possess a deep understanding of the logistical and physical layers of business operations. I bridge the gap between "Process" and "Protocol," ensuring that security measures are not just theoretical, but operational. My focus is on hardware hardening, threat monitoring, and maintaining the integrity of chain-of-custody environments.
 
 ---
 
@@ -20,7 +20,16 @@ My strength lies in understanding the machinery that powers the network. I focus
 * **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Modem/Router Config` `Cloud Basics`
 * **Software:** `ServiceNow` `Remedy` `Salesforce` `Microsoft 365` `Microsoft Access`
 * **Analytics:** `Google Analytics` `SEO Auditing` `Excel Reporting` `Data Visualization`
-* **Security:** `Risk Analysis` `Policy Enforcement` `Access Control` `HIPAA Compliance` `Digital Safety`
+* **Security:** `Supply Chain Risk` `Policy Enforcement` `Access Control` `HIPAA Compliance` `Digital Safety`
+
+---
+
+### 💻 Technical Projects
+
+**Secure Cloud Portfolio Deployment**
+* **Overview:** Designed and deployed a static professional portfolio using Jekyll and GitHub Pages.
+* **Security:** Configured Enforced HTTPS (SSL) and custom DNS management for `arthurstillman.me`.
+* **Tech Stack:** `Git` `Markdown` `YAML` `DNS Configuration` `Version Control`
 
 ---
 
@@ -43,8 +52,8 @@ My strength lies in understanding the machinery that powers the network. I focus
 
 **DHL Express | Store Lead & Operations Manager**
 *(June 2025 - Present)*
-* **Operational Security:** Sole on-site authority responsible for inventory control, physical site security, and financial reconciliation.
-* **Process Management:** Independently manage daily logistics workflows, ensuring strict adherence to shipping protocols and chain-of-custody procedures.
+* **Supply Chain Security:** Sole authority for site security, enforcing strict chain-of-custody protocols for high-value global shipments.
+* **Risk Mitigation:** Manage physical access control and inventory integrity, preventing loss and ensuring compliance with international shipping regulations.
 
 **Google Trust & Safety (Teleperformance) | Content Moderator**
 *(Aug 2024 - June 2025)*
@@ -59,8 +68,8 @@ My strength lies in understanding the machinery that powers the network. I focus
 
 **VCS Medical Associates | Sales Team Lead**
 *(Oct 2018 - Mar 2020)*
-* **Team Oversight:** Managed and mentored an 8-person unit, conducting performance audits and enforcing compliance in the regulated medical sector.
-* **Protocol Development:** Developed and implemented standardized training scripts and operational protocols to improve team efficiency.
+* **Compliance Leadership:** Managed an 8-person unit in a regulated medical environment, enforcing strict HIPAA privacy standards and operational protocols.
+* **Process Improvement:** Developed standardized training scripts that increased team efficiency and revenue generation.
 
 **Local Search Group | SEO Consultant**
 *(May 2018 - Sept 2018)*
@@ -80,6 +89,7 @@ My strength lies in understanding the machinery that powers the network. I focus
 **Indian River State College**
 *Associate of Science in Information Technology (In Progress)*
 * **Focus:** Network Defense & Cyber Security Foundations
+* **Relevant Coursework:** Cloud Computing Models, Hardware Hardening, Risk Mitigation, & Network Protocols.
 
 ---
 
