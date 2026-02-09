@@ -24,10 +24,10 @@ Currently completing my degree in Cyber Security at **Indian River State College
 * **Threat Detection:** Identified and escalated sensitive material based on community guidelines, acting as a human firewall for platform integrity.
 * **Risk Analysis:** Made time-sensitive decisions on ambiguous content, maintaining high accuracy in a fast-paced compliance environment.
 
-**iVox Solutions | Operations Supervisor**
+**Altice Business Support (iVox Solutions) | Operations Supervisor**
 *(June 2022 - July 2024)*
-* **Team Leadership:** Directed a team of agents, implementing performance metrics that increased efficiency and protocol adherence.
-* **Workflow Optimization:** Analyzed operational data to identify bottlenecks, reducing handle times while maintaining quality standards.
+* **Enterprise Leadership:** Directed a team of technical agents supporting business-tier clients, enforcing strict Service Level Agreements (SLAs) and high-availability standards.
+* **Network Continuity:** Managed high-stakes technical escalations for business networks, prioritizing rapid resolution to minimize downtime for commercial clients.
 
 ---
 
