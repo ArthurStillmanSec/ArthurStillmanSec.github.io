@@ -1,5 +1,6 @@
 # Arthur Stillman
 ### IT Operations & Security Focus
+**Location:** Port St. Lucie, FL  |  **Email:** arthurstillman90@gmail.com
 
 > "Security is about vigilance, not just software."
 
