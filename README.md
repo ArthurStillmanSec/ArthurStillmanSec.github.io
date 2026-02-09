@@ -11,9 +11,30 @@ Currently completing my degree in Cyber Security at **Indian River State College
 
 ---
 
+### Professional Experience
+
+**DHL Express | Store Lead & Operations Manager**
+*(June 2025 - Present)*
+* **Operational Security:** Sole on-site authority responsible for inventory control, physical site security, and financial reconciliation.
+* **Process Management:** Independently manage daily logistics workflows, ensuring strict adherence to shipping protocols and chain-of-custody procedures.
+
+**Google Trust & Safety (Teleperformance) | Content Moderator**
+*(Aug 2024 - June 2025)*
+* **Policy Enforcement:** Analyzed high-volume user content to enforce platform safety policies and mitigate risk.
+* **Threat Detection:** Identified and escalated sensitive material based on community guidelines, acting as a human firewall for platform integrity.
+* **Risk Analysis:** Made time-sensitive decisions on ambiguous content, maintaining high accuracy in a fast-paced compliance environment.
+
+**iVox Solutions | Operations Supervisor**
+*(June 2022 - July 2024)*
+* **Team Leadership:** Directed a team of agents, implementing performance metrics that increased efficiency and protocol adherence.
+* **Workflow Optimization:** Analyzed operational data to identify bottlenecks, reducing handle times while maintaining quality standards.
+
+---
+
 ### Core Competencies
 * **Infrastructure Security:** Hardware hardening & physical defense.
+* **Trust & Safety:** Policy enforcement & risk mitigation.
 * **Operational Leadership:** Team management & workflow optimization.
 * **System Integrity:** Diagnostics, maintenance, & reliability.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/arthur-stillman/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/arthur-stillman)
