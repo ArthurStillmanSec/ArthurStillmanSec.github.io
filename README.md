@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="profile.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff;">
+  <img src="Profile_JPG.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff;">
   <h1>Arthur Stillman</h1>
   <h3>IT Operations & Security Focus</h3>
   <p>
     <b>Location:</b> Port St. Lucie, FL <br>
     <b>Email:</b> <a href="mailto:arthurstillman90@gmail.com">arthurstillman90@gmail.com</a> <br>
     <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/arthur-stillman">Connect on LinkedIn</a>
+  </p>
+  <br>
+  <i>"Security is about vigilance, not just software."</i>
+</div>
+<br>
   </p>
   <br>
   <i>"Security is about vigilance, not just software."</i>
