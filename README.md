@@ -2,7 +2,7 @@
   <img src="Profile_JPG.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
   
   <h1 style="margin-bottom: 0;">Arthur Stillman</h1>
-  <h3 style="color: #FFD700; margin-top: 5px;">Supply Chain Security & IT Operations</h3>
+  <h3 style="margin-top: 5px;">Supply Chain Security & IT Operations</h3>
   
   <p>📍 Port St. Lucie, FL</p>
 
