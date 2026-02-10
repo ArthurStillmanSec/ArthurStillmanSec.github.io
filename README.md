@@ -1,8 +1,7 @@
 <div align="center">
   <img src="Profile_JPG.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
   
-  <h1 style="margin-bottom: 0;">Arthur Stillman</h1>
-  <h3 style="margin-top: 5px;">Supply Chain Security & IT Operations</h3>
+  <h2 style="margin-top: 10px; color: #333333;">Supply Chain Security & IT Operations</h2>
   
   <p>📍 Port St. Lucie, FL</p>
 
@@ -15,11 +14,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
-
-  <br>
-  <i>"Security is about vigilance, not just software."</i>
 </div>
-<br>
+
+> **"Security is about vigilance, not just software."**
 
 ---
 
