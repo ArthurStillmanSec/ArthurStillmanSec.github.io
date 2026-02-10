@@ -4,7 +4,7 @@
   <h3>IT Operations & Security Focus</h3>
   <p>
     <b>Location:</b> Port St. Lucie, FL <br>
-    <b>Email:</b> <a href="mailto:ArthurStillman90@gmail.com">arthurstillman90@gmail.com</a> <br>
+    <b>Email:</b> <a href="mailto:ArthurStillman90@gmail.com">ArthurStillman90@gmail.com</a> <br>
     <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/Arthur-Stillman">Connect on LinkedIn</a>
   </p>
   <br>
