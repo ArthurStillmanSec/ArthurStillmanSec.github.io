@@ -51,7 +51,7 @@ Unlike traditional candidates, I possess a deep understanding of the logistical 
 * **Focus:** Hardware configuration & foundational security principles.
 
 **CompTIA Tech+ Curriculum (Skillsoft)**
-* **Coursework Completed:** Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
+* **Coursework Completed:** Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
 * **Status:** Comprehensive training modules completed (Pre-certification).
 
 **Microsoft Office Proficiency (McGraw Hill)**
