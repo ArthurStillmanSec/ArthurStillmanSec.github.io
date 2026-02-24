@@ -79,6 +79,19 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 **VCS Medical Associates | Sales Team Lead**
 *(Oct 2018 - Mar 2020)*
 * **Compliance Leadership:** Managed a medical unit under strict HIPAA privacy standards and operational protocols.
+* **Process Improvement:** Developed standardized training scripts that increased team efficiency and revenue generation.
+
+**Local Search Group | SEO Consultant**
+*(May 2018 - Sept 2018)*
+* **Web Analytics:** Executed technical SEO audits and keyword research to improve site architecture and organic visibility.
+* **Data Analysis:** Utilized analytics tools to track traffic patterns and optimize digital content strategies.
+
+---
+
+### 🕒 Early Career History
+* **Black Swan K-9 Training (2017-2018):** Client Liaison Manager responsible for scheduling and billing integrity.
+* **Life1 Medical Alarm (2016):** Medical Device Sales Specialist focused on privacy and client compliance.
+* **SYCN Auto Logistics (2011-2013):** Transport Broker handling complex dispatch and logistics coordination.
 
 ---
 
@@ -86,6 +99,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 **Indian River State College**
 *Associate of Science in Information Technology (In Progress)*
 * **Focus:** Network Defense & Cyber Security Foundations.
+* **Relevant Coursework:** Cloud Computing Models, Hardware Hardening, Risk Mitigation, & Network Protocols.
 
 ---
 
