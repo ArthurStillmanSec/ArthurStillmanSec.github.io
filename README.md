@@ -11,11 +11,10 @@
 
 <br>
 
-<table border="0" width="100%" cellpadding="10">
+<table border="0" width="100%" cellpadding="15" cellspacing="0">
   <tr>
-    <td width="25%" valign="top" style="border-right: 1px solid #eeeeee;">
-      <h4>📍 Navigation</h4>
-      <hr>
+    <td width="220" valign="top" style="border-right: 2px solid #f0f0f0;">
+      <h4 style="margin-top:0;">📍 Navigation</h4>
       <a href="#profile">👤 Profile</a><br><br>
       <a href="#arsenal">🛠 Arsenal</a><br><br>
       <a href="#training">📜 Training</a><br><br>
@@ -23,14 +22,17 @@
       <a href="#education">🎓 Education</a>
       <hr>
       <h4>🛠 Current Prep</h4>
-      <p>• CET 1178 (A+ Hard)<br>
-      • CIS 1000 (Intro IT)</p>
+      <p style="font-size: 0.9em;">
+        • CET 1178 (A+ Hardware)<br>
+        • CIS 1000 (Intro to IT)
+      </p>
       <hr>
-      <p><b><a href="#">⬆️ Back to Top</a></b></p>
+      <p align="center"><b><a href="#">⬆️ Back to Top</a></b></p>
     </td>
-    <td width="75%" valign="top">
 
-<h3 id="profile">👤 Professional Profile</h3>
+    <td valign="top">
+
+<h3 id="profile" style="margin-top:0;">👤 Professional Profile</h3>
 I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in <b>Supply Chain Security</b> and <b>Physical Infrastructure Protection</b>. 
 
 I bridge the gap between operational "Process" and security "Protocol," ensuring that measures are not just theoretical, but operational.
@@ -42,20 +44,20 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
   <li><b>Hardware:</b> <code>PC Building</code> <code>Diagnostics</code> <code>Windows Admin</code></li>
   <li><b>Networking:</b> <code>TCP/IP</code> <code>SLA Management</code> <code>Troubleshooting</code></li>
   <li><b>Security:</b> <code>Supply Chain Risk</code> <code>Policy Enforcement</code> <code>HIPAA</code></li>
-  <li><b>Analytics:</b> <code>SEO Auditing</code> <code>Data Visualization</code> <code>Reporting</code></li>
+  <li><b>Software:</b> <code>ServiceNow</code> <code>Remedy</code> <code>Salesforce</code> <code>Microsoft 365</code></li>
 </ul>
 
 <hr>
 
 <h3 id="training">📜 Training & Cert Prep</h3>
-<b>CompTIA Tech+ & A+ Pathway</b>
+<b>CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)</b>
 <ul>
   <li><b>Status:</b> Certification Candidate</li>
   <li><b>Completed:</b> Software Development, OS Mastery, Cloud, & Networking.</li>
 </ul>
 <b>Cisco Networking Academy</b>
 <ul>
-  <li><b>Badges:</b> Hardware Basics, Intro to Cybersecurity, Digital Safety.</li>
+  <li><b>Verified Badges:</b> Hardware Basics, Intro to Cybersecurity, Digital Safety.</li>
 </ul>
 
 <hr>
