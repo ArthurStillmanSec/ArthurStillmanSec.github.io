@@ -16,9 +16,13 @@
   </p>
 </div>
 
+<br>
+
 > **"Security is about vigilance, not just software."**
 
 ---
+
+### 👤 Professional Profile
 
 I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in **Supply Chain Security** and **Physical Infrastructure Protection**.
 
@@ -30,4 +34,54 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 * **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration` `Windows 11 Admin`
 * **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Modem/Router Config` `Cloud Basics`
 * **Software:** `ServiceNow` `Remedy` `Salesforce` `Microsoft 365` `Microsoft Access`
-* **Analytics:** `Google Analytics` `SEO Auditing` `Excel Reporting` `Data Visualization`
+* **Security:** `Supply Chain Risk` `Policy Enforcement` `Access Control` `HIPAA Compliance` `Digital Safety`
+
+---
+
+### 📜 Professional Development & Training
+
+**CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)**
+* **Status:** Certification Candidate
+* **Coursework Completed:** Software Development, Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
+* **Academic Prep:** Currently enrolled in CET 1178 (A+ Hardware) and CIS 1000 (Intro to IT).
+
+**Cisco Networking Academy**
+* **Verified Badges:** Computer Hardware Basics, Introduction to Cybersecurity, Digital Safety.
+
+---
+
+### 💼 Professional Experience
+
+**DHL Express | Store Lead & Operations Manager**
+*(June 2025 - Present)*
+* **Logistical Authority:** Lead B2B and retail operations, enforcing strict chain-of-custody protocols for high-value global shipments.
+* **Risk Mitigation:** Manage physical access control and inventory integrity, ensuring 100% compliance with international shipping regulations.
+
+**Google Trust & Safety (Teleperformance) | Content Moderator**
+*(Aug 2024 - June 2025)*
+* **Policy Enforcement:** Analyzed high-volume data streams to enforce platform safety policies and mitigate digital risk.
+
+**Altice Business Support (iVox Solutions) | Operations Supervisor**
+*(June 2022 - July 2024)*
+* **Enterprise Leadership:** Directed technical support teams for business-tier clients, prioritizing network continuity and rapid escalation resolution.
+
+---
+
+### 🎓 Education
+
+**Indian River State College** | *Associate of Science in Information Technology*
+
+<br>
+
+![Degree Progress](https://img.shields.io/badge/Credits_Earned-15_/_60-0077B5?style=for-the-badge&logo=react&logoColor=white)
+
+<br>
+
+* **Current Standing:** 3.40 GPA with 15 credits completed toward A.S. degree.
+* **Spring 2026 Focus:** A+ Certification (Hardware) and Introduction to Information Technology.
+* **Civic Literacy:** Florida Civic Literacy Course Competency Met.
+
+---
+
+### 📬 Ready to Connect?
+**[Email Me](mailto:arthurstillman90@gmail.com)** |  **[Connect on LinkedIn](https://www.linkedin.com/in/arthur-stillman)**
