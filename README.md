@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=2034&auto=format&fit=crop" width="100%" height="180" style="object-fit: cover; border-radius: 12px 12px 0 0; margin-bottom: 15px;" alt="Infrastructure Banner">
+  <img src="Profile_JPG.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
   
-  <img src="Profile_JPG.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
-  
-  <h2 style="margin-top: 15px; color: #0F172A;">Supply Chain Security & IT Operations</h2>
+  <h2 style="margin-top: 10px; color: #333333;">Supply Chain Security & IT Operations</h2>
   
   <p>📍 Port St. Lucie, FL</p>
 
   <p>
     <a href="mailto:arthurstillman90@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-0F172A?style=for-the-badge&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/arthur-stillman">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
 
@@ -32,7 +30,7 @@
 
 ---
 
-<h3 id="profile" style="color: #0F172A;">👤 Professional Profile</h3>
+<h3 id="profile">👤 Professional Profile</h3>
 
 I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in **Supply Chain Security** and **Physical Infrastructure Protection**.
 
@@ -40,23 +38,16 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 ---
 
-<h3 id="arsenal" style="color: #0F172A;">🛠 Technical Arsenal</h3>
-
-**Hardware & Administration**<br>
-![PC Building](https://img.shields.io/badge/PC_Building-0F172A?style=for-the-badge) ![Hardware Diagnostics](https://img.shields.io/badge/Hardware_Diagnostics-0F172A?style=for-the-badge) ![Windows 11](https://img.shields.io/badge/Windows_11_Admin-0F172A?style=for-the-badge&logo=windows&logoColor=white) 
-
-**Networking & Cloud**<br>
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0F172A?style=for-the-badge) ![SLA Management](https://img.shields.io/badge/SLA_Management-0F172A?style=for-the-badge) ![Troubleshooting](https://img.shields.io/badge/ISP_Troubleshooting-0F172A?style=for-the-badge) ![Cloud Basics](https://img.shields.io/badge/Cloud_Basics-0F172A?style=for-the-badge&logo=icloud&logoColor=white)
-
-**Enterprise Software**<br>
-![ServiceNow](https://img.shields.io/badge/ServiceNow-0F172A?style=for-the-badge&logo=servicenow&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-0F172A?style=for-the-badge&logo=salesforce&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0F172A?style=for-the-badge&logo=microsoft&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-0F172A?style=for-the-badge)
-
-**Security & Compliance**<br>
-![Supply Chain Risk](https://img.shields.io/badge/Supply_Chain_Risk-0F172A?style=for-the-badge) ![Policy Enforcement](https://img.shields.io/badge/Policy_Enforcement-0F172A?style=for-the-badge) ![HIPAA](https://img.shields.io/badge/HIPAA_Compliance-0F172A?style=for-the-badge) ![Access Control](https://img.shields.io/badge/Access_Control-0F172A?style=for-the-badge)
+<h3 id="arsenal">🛠 Technical Arsenal</h3>
+* **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration` `Windows 11 Admin`
+* **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Modem/Router Config` `Cloud Basics`
+* **Software:** `ServiceNow` `Remedy` `Salesforce` `Microsoft 365` `Microsoft Access`
+* **Security:** `Supply Chain Risk` `Policy Enforcement` `Access Control` `HIPAA Compliance` `Digital Safety`
+* **Analytics:** `Google Analytics` `SEO Auditing` `Excel Reporting` `Data Visualization`
 
 ---
 
-<h3 id="training" style="color: #0F172A;">📜 Professional Development & Training</h3>
+<h3 id="training">📜 Professional Development & Training</h3>
 
 **CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)**
 * **Status:** Certification Candidate
@@ -68,7 +59,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 ---
 
-<h3 id="experience" style="color: #0F172A;">💼 Professional Experience</h3>
+<h3 id="experience">💼 Professional Experience</h3>
 
 #### 🚚 DHL Express | Store Lead & Operations Manager
 *(June 2025 - Present)*
@@ -112,7 +103,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 ---
 
-<h3 id="education" style="color: #0F172A;">🎓 Education</h3>
+<h3 id="education">🎓 Education</h3>
 
 **Indian River State College** | *Associate of Science in Information Technology*
 
