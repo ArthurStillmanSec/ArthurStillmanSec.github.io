@@ -1,7 +1,31 @@
+<style>
+  /* This forces the entire webpage background dark */
+  body {
+    background-color: #0d1117 !important;
+    color: #c9d1d9 !important;
+  }
+  
+  /* This changes your headers to a nice tech blue */
+  h2, h3, h4 {
+    color: #58a6ff !important;
+  }
+  
+  /* This makes your links match the headers */
+  a {
+    color: #58a6ff !important;
+    text-decoration: none;
+  }
+  
+  /* This darkens the horizontal lines so they don't glare */
+  hr {
+    border: 1px solid #30363d !important;
+  }
+</style>
+
 <div align="center">
   <img src="Profile_JPG.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
   
-  <h2 style="margin-top: 10px; color: #333333;">Supply Chain Security & IT Operations</h2>
+  <h2 style="margin-top: 10px;">Supply Chain Security & IT Operations</h2>
   
   <p>📍 Port St. Lucie, FL</p>
 
