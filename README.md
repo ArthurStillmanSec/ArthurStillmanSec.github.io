@@ -11,9 +11,9 @@
 
 <br>
 
-<table border="0" width="100%" cellpadding="15" cellspacing="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="220" valign="top" style="border-right: 2px solid #f0f0f0;">
+    <td width="240" valign="top" style="background-color: #fcfcfc; border-right: 2px solid #eeeeee;">
       <h4 style="margin-top:0;">📍 Navigation</h4>
       <a href="#profile">👤 Profile</a><br><br>
       <a href="#arsenal">🛠 Arsenal</a><br><br>
@@ -21,8 +21,14 @@
       <a href="#experience">💼 Experience</a><br><br>
       <a href="#education">🎓 Education</a>
       <hr>
-      <h4>🛠 Current Prep</h4>
-      <p style="font-size: 0.9em;">
+      <h4>🚀 Latest Milestone</h4>
+      <p style="font-size: 0.85em;">
+        <b>Software Development</b><br>
+        <i>Skillsoft Completed 02/24/26</i>
+      </p>
+      <hr>
+      <h4>🛠 In-Progress</h4>
+      <p style="font-size: 0.85em;">
         • CET 1178 (A+ Hardware)<br>
         • CIS 1000 (Intro to IT)
       </p>
@@ -53,7 +59,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 <b>CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)</b>
 <ul>
   <li><b>Status:</b> Certification Candidate</li>
-  <li><b>Completed:</b> Software Development, OS Mastery, Cloud, & Networking.</li>
+  <li><b>Completed:</b> Software Development (Feb 2026), OS Mastery, Cloud, & Networking.</li>
 </ul>
 <b>Cisco Networking Academy</b>
 <ul>
