@@ -51,7 +51,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 **CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)**
 * **Status:** Certification Candidate
-* **Coursework Completed:** Software Development (Completed Feb 2026), Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
+* **Coursework Completed:** Software Development (Completed Feb 24, 2026), Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
 * **Academic Prep:** Currently enrolled in CET 1178 (A+ Hardware) and CIS 1000 (Intro to IT).
 
 **Cisco Networking Academy**
@@ -92,7 +92,6 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 #### 📈 Local Search Group | SEO Consultant
 *(May 2018 - Sept 2018)*
 * **Web Analytics:** Executed technical SEO audits and keyword research to improve site architecture and organic visibility.
-* **Data Analysis:** Utilized analytics tools to track traffic patterns and optimize digital content strategies.
 
 <br>
 
