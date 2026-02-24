@@ -14,6 +14,14 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
+
+  <p>
+    <b><a href="#profile">Profile</a></b> • 
+    <b><a href="#arsenal">Technical Arsenal</a></b> • 
+    <b><a href="#training">Training</a></b> • 
+    <b><a href="#experience">Experience</a></b> • 
+    <b><a href="#education">Education</a></b>
+  </p>
 </div>
 
 <br>
@@ -22,7 +30,7 @@
 
 ---
 
-### 👤 Professional Profile
+<h3 id="profile">👤 Professional Profile</h3>
 
 I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in **Supply Chain Security** and **Physical Infrastructure Protection**.
 
@@ -30,7 +38,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 ---
 
-### 🛠 Technical Arsenal
+<h3 id="arsenal">🛠 Technical Arsenal</h3>
 * **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration` `Windows 11 Admin`
 * **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Modem/Router Config` `Cloud Basics`
 * **Software:** `ServiceNow` `Remedy` `Salesforce` `Microsoft 365` `Microsoft Access`
@@ -38,7 +46,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 ---
 
-### 📜 Professional Development & Training
+<h3 id="training">📜 Professional Development & Training</h3>
 
 **CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)**
 * **Status:** Certification Candidate
@@ -50,7 +58,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 ---
 
-### 💼 Professional Experience
+<h3 id="experience">💼 Professional Experience</h3>
 
 **DHL Express | Store Lead & Operations Manager**
 *(June 2025 - Present)*
@@ -67,7 +75,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 ---
 
-### 🎓 Education
+<h3 id="education">🎓 Education</h3>
 
 **Indian River State College** | *Associate of Science in Information Technology*
 
