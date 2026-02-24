@@ -51,7 +51,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 **CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)**
 * **Status:** Certification Candidate
-* **Coursework Completed:** Software Development, Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
+* **Coursework Completed:** Software Development (Completed Feb 2026), Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
 * **Academic Prep:** Currently enrolled in CET 1178 (A+ Hardware) and CIS 1000 (Intro to IT).
 
 **Cisco Networking Academy**
@@ -61,42 +61,45 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 <h3 id="experience">💼 Professional Experience</h3>
 
-**DHL Express | Store Lead & Operations Manager**
+#### 🚚 DHL Express | Store Lead & Operations Manager
 *(June 2025 - Present)*
 * **Logistical Authority:** Lead B2B and retail operations, enforcing strict chain-of-custody protocols for high-value global shipments.
 * **Risk Mitigation:** Manage physical access control and inventory integrity, ensuring 100% compliance with international shipping regulations.
 
-**Google Trust & Safety (Teleperformance) | Content Moderator**
+<br>
+
+#### 🛡️ Google Trust & Safety (Teleperformance) | Content Moderator
 *(Aug 2024 - June 2025)*
 * **Policy Enforcement:** Analyzed high-volume data streams to enforce platform safety policies and mitigate digital risk.
 * **Threat Detection:** Acted as a human firewall for platform integrity, identifying and escalating sensitive material based on complex community guidelines.
 
-**Altice Business Support (iVox Solutions) | Operations Supervisor**
+<br>
+
+#### 📞 Altice Business Support (iVox Solutions) | Operations Supervisor
 *(June 2022 - July 2024)*
 * **Enterprise Leadership:** Directed technical support teams for business-tier clients, prioritizing network continuity and rapid escalation resolution.
 * **SLA Management:** Enforced strict Service Level Agreements (SLAs) to minimize downtime and optimize performance for commercial clients.
 
-**VCS Medical Associates | Sales Team Lead**
+<br>
+
+#### 🏥 VCS Medical Associates | Sales Team Lead
 *(Oct 2018 - Mar 2020)*
 * **Compliance Leadership:** Managed a medical unit under strict HIPAA privacy standards and operational protocols.
 * **Process Improvement:** Developed standardized training scripts that increased team efficiency and revenue generation.
 
-**Local Search Group | SEO Consultant**
+<br>
+
+#### 📈 Local Search Group | SEO Consultant
 *(May 2018 - Sept 2018)*
 * **Web Analytics:** Executed technical SEO audits and keyword research to improve site architecture and organic visibility.
 * **Data Analysis:** Utilized analytics tools to track traffic patterns and optimize digital content strategies.
 
-**Black Swan K-9 Training | Client Liaison Manager**
-*(2017 - 2018)*
-* **Ops Management:** Responsible for scheduling, billing integrity, and client account management.
+<br>
 
-**Life1 Medical Alarm | Medical Device Sales Specialist**
-*(2016)*
-* **Privacy & Compliance:** Managed client accounts focusing on medical device compliance and privacy protocols.
-
-**SYCN Auto Logistics | Automotive Transport Broker**
-*(2011 - 2013)*
-* **Logistics Coordination:** Handled complex dispatch and logistics for vehicle shipments nationwide.
+#### 🕒 Early Career History
+* **Black Swan K-9 Training (2017 - 2018):** Client Liaison Manager handling scheduling and billing integrity.
+* **Life1 Medical Alarm (2016):** Medical Device Sales Specialist focused on privacy and client compliance.
+* **SYCN Auto Logistics (2011 - 2013):** Transport Broker handling complex dispatch and logistics coordination.
 
 ---
 
