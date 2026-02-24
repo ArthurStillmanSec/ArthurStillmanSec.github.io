@@ -11,9 +11,9 @@
 
 <br>
 
-<table border="0">
+<table border="0" width="100%" cellpadding="10">
   <tr>
-    <td width="28%" valign="top">
+    <td width="25%" valign="top" style="border-right: 1px solid #eeeeee;">
       <h4>📍 Navigation</h4>
       <hr>
       <a href="#profile">👤 Profile</a><br><br>
@@ -28,7 +28,7 @@
       <hr>
       <p><b><a href="#">⬆️ Back to Top</a></b></p>
     </td>
-    <td width="72%" valign="top">
+    <td width="75%" valign="top">
 
 <h3 id="profile">👤 Professional Profile</h3>
 I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in <b>Supply Chain Security</b> and <b>Physical Infrastructure Protection</b>. 
