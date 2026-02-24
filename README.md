@@ -1,102 +1,118 @@
 <div align="center">
   <img src="Profile_JPG.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #ffffff; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
+  
   <h2 style="margin-top: 10px; color: #333333;">Supply Chain Security & IT Operations</h2>
+  
   <p>📍 Port St. Lucie, FL</p>
+
   <p>
-    <a href="mailto:arthurstillman90@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:arthurstillman90@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/arthur-stillman"><img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/arthur-stillman">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+
+  <p>
+    <b><a href="#profile">Profile</a></b> • 
+    <b><a href="#arsenal">Technical Arsenal</a></b> • 
+    <b><a href="#training">Training</a></b> • 
+    <b><a href="#experience">Experience</a></b> • 
+    <b><a href="#education">Education</a></b>
   </p>
 </div>
 
 <br>
 
-<div style="display: flex; align-items: flex-start; gap: 30px; width: 100%;">
-  
-  <div style="flex: 0 0 240px; border-right: 2px solid #eeeeee; padding-right: 20px;">
-    <h4 style="margin-top:0;">📍 Navigation</h4>
-    <hr>
-    <a href="#profile">👤 Profile</a><br><br>
-    <a href="#arsenal">🛠 Arsenal</a><br><br>
-    <a href="#training">📜 Training</a><br><br>
-    <a href="#experience">💼 Experience</a><br><br>
-    <a href="#education">🎓 Education</a>
-    <hr>
-    <h4>🚀 New Credential</h4>
-    <p style="font-size: 0.85em;">
-      <b>Software Development</b><br>
-      <i>Skillsoft (Feb 24, 2026)</i>
-    </p>
-    <hr>
-    <h4>🛠 In-Progress</h4>
-    <p style="font-size: 0.85em;">
-      • CET 1178 (A+ Hardware)<br>
-      • CIS 1000 (Intro to IT)
-    </p>
-    <hr>
-    <p align="center"><b><a href="#">⬆️ Back to Top</a></b></p>
-  </div>
+> **"Security is about vigilance, not just software."**
 
-  <div style="flex: 1; padding-left: 10px;">
+---
 
-<h3 id="profile" style="margin-top:0;">👤 Professional Profile</h3>
-I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in <b>Supply Chain Security</b> and <b>Physical Infrastructure Protection</b>. 
+<h3 id="profile">👤 Professional Profile</h3>
 
-<hr>
+I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in **Supply Chain Security** and **Physical Infrastructure Protection**.
+
+I bridge the gap between operational "Process" and security "Protocol," ensuring that measures are not just theoretical, but operational. My focus is on hardware hardening, threat monitoring, and maintaining the integrity of chain-of-custody environments.
+
+---
 
 <h3 id="arsenal">🛠 Technical Arsenal</h3>
-<ul>
-  <li><b>Hardware:</b> <code>PC Building</code> <code>Diagnostics</code> <code>Windows Admin</code></li>
-  <li><b>Networking:</b> <code>TCP/IP</code> <code>SLA Management</code> <code>Troubleshooting</code></li>
-  <li><b>Security:</b> <code>Supply Chain Risk</code> <code>Policy Enforcement</code> <code>HIPAA</code></li>
-  <li><b>Software:</b> <code>ServiceNow</code> <code>Remedy</code> <code>Salesforce</code> <code>Microsoft 365</code></li>
-</ul>
+* **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration` `Windows 11 Admin`
+* **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Modem/Router Config` `Cloud Basics`
+* **Software:** `ServiceNow` `Remedy` `Salesforce` `Microsoft 365` `Microsoft Access`
+* **Security:** `Supply Chain Risk` `Policy Enforcement` `Access Control` `HIPAA Compliance` `Digital Safety`
+* **Analytics:** `Google Analytics` `SEO Auditing` `Excel Reporting` `Data Visualization`
 
-<hr>
+---
 
-<h3 id="training">📜 Training & Cert Prep</h3>
-<b>CompTIA Tech+ & A+ Pathway</b>
-<ul>
-  <li><b>Status:</b> Certification Candidate</li>
-  <li><b>Completed:</b> Software Development (Feb 2026), OS Mastery, Cloud, & Networking.</li>
-</ul>
+<h3 id="training">📜 Professional Development & Training</h3>
 
-<hr>
+**CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)**
+* **Status:** Certification Candidate
+* **Coursework Completed:** Software Development, Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
+* **Academic Prep:** Currently enrolled in CET 1178 (A+ Hardware) and CIS 1000 (Intro to IT).
+
+**Cisco Networking Academy**
+* **Verified Badges:** Computer Hardware Basics, Introduction to Cybersecurity, Digital Safety.
+
+---
 
 <h3 id="experience">💼 Professional Experience</h3>
 
-<h4>🚚 DHL Express | Store Lead & Ops Manager</h4>
-<i>June 2025 - Present</i>
-<ul>
-  <li>Lead B2B operations, enforcing strict chain-of-custody protocols.</li>
-</ul>
+**DHL Express | Store Lead & Operations Manager**
+*(June 2025 - Present)*
+* **Logistical Authority:** Lead B2B and retail operations, enforcing strict chain-of-custody protocols for high-value global shipments.
+* **Risk Mitigation:** Manage physical access control and inventory integrity, ensuring 100% compliance with international shipping regulations.
 
-<br>
+**Google Trust & Safety (Teleperformance) | Content Moderator**
+*(Aug 2024 - June 2025)*
+* **Policy Enforcement:** Analyzed high-volume data streams to enforce platform safety policies and mitigate digital risk.
+* **Threat Detection:** Acted as a human firewall for platform integrity, identifying and escalating sensitive material based on complex community guidelines.
 
-<h4>🛡️ Google Trust & Safety | Content Moderator</h4>
-<i>Aug 2024 - June 2025</i>
-<ul>
-  <li>Analyzed data streams to enforce safety policies.</li>
-</ul>
+**Altice Business Support (iVox Solutions) | Operations Supervisor**
+*(June 2022 - July 2024)*
+* **Enterprise Leadership:** Directed technical support teams for business-tier clients, prioritizing network continuity and rapid escalation resolution.
+* **SLA Management:** Enforced strict Service Level Agreements (SLAs) to minimize downtime and optimize performance for commercial clients.
 
-<br>
+**VCS Medical Associates | Sales Team Lead**
+*(Oct 2018 - Mar 2020)*
+* **Compliance Leadership:** Managed a medical unit under strict HIPAA privacy standards and operational protocols.
+* **Process Improvement:** Developed standardized training scripts that increased team efficiency and revenue generation.
 
-<h4>📞 Altice Business | Operations Supervisor</h4>
-<i>June 2022 - July 2024</i>
-<ul>
-  <li>Directed technical support for business-tier clients.</li>
-</ul>
+**Local Search Group | SEO Consultant**
+*(May 2018 - Sept 2018)*
+* **Web Analytics:** Executed technical SEO audits and keyword research to improve site architecture and organic visibility.
+* **Data Analysis:** Utilized analytics tools to track traffic patterns and optimize digital content strategies.
 
-<hr>
+**Black Swan K-9 Training | Client Liaison Manager**
+*(2017 - 2018)*
+* **Ops Management:** Responsible for scheduling, billing integrity, and client account management.
+
+**Life1 Medical Alarm | Medical Device Sales Specialist**
+*(2016)*
+* **Privacy & Compliance:** Managed client accounts focusing on medical device compliance and privacy protocols.
+
+**SYCN Auto Logistics | Automotive Transport Broker**
+*(2011 - 2013)*
+* **Logistics Coordination:** Handled complex dispatch and logistics for vehicle shipments nationwide.
+
+---
 
 <h3 id="education">🎓 Education</h3>
-<b>Indian River State College</b> | <i>A.S. in IT</i>
-<br><br>
-<img src="https://img.shields.io/badge/Credits_Earned-15_/_60-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" alt="Degree Progress">
-<ul>
-  <li><b>GPA:</b> 3.40 (15 credits completed).</li>
-  <li><b>Focus:</b> A+ Hardware & Intro to IT.</li>
-</ul>
 
-  </div>
-</div>
+**Indian River State College** | *Associate of Science in Information Technology*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Credits_Earned-15_/_60-0077B5?style=for-the-badge&logo=gitbook&logoColor=white" alt="Degree Progress">
+</p>
+
+* **Current Standing:** 3.40 GPA with 15 credits completed toward A.S. degree.
+* **Spring 2026 Focus:** A+ Certification (Hardware) and Introduction to Information Technology.
+* **Civic Literacy:** Florida Civic Literacy Course Competency Met.
+
+---
+
+### 📬 Ready to Connect?
+**[Email Me](mailto:arthurstillman90@gmail.com)** |  **[Connect on LinkedIn](https://www.linkedin.com/in/arthur-stillman)**
