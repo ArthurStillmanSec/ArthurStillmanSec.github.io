@@ -11,32 +11,33 @@
 
 <br>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="20">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td width="240" valign="top" style="background-color: #fcfcfc; border-right: 2px solid #eeeeee;">
+    <td style="width: 260px; vertical-align: top; padding: 20px; background-color: #fafafa; border-right: 2px solid #eeeeee;">
       <h4 style="margin-top:0;">📍 Navigation</h4>
+      <hr>
       <a href="#profile">👤 Profile</a><br><br>
       <a href="#arsenal">🛠 Arsenal</a><br><br>
       <a href="#training">📜 Training</a><br><br>
       <a href="#experience">💼 Experience</a><br><br>
       <a href="#education">🎓 Education</a>
       <hr>
-      <h4>🚀 Latest Milestone</h4>
+      <h4>🚀 New Credential</h4>
       <p style="font-size: 0.85em;">
         <b>Software Development</b><br>
-        <i>Skillsoft Completed 02/24/26</i>
+        <i>Skillsoft (Feb 24, 2026)</i>
       </p>
       <hr>
       <h4>🛠 In-Progress</h4>
       <p style="font-size: 0.85em;">
-        • CET 1178 (A+ Hardware)<br>
+        • CET 1178 (A+ Hardware) <br>
         • CIS 1000 (Intro to IT)
       </p>
       <hr>
       <p align="center"><b><a href="#">⬆️ Back to Top</a></b></p>
     </td>
 
-    <td valign="top">
+    <td style="vertical-align: top; padding: 30px;">
 
 <h3 id="profile" style="margin-top:0;">👤 Professional Profile</h3>
 I am an experienced operations leader with a 15-year track record of streamlining B2B processes, managing technical support teams, and leading high-stakes logistical workflows. I am currently leveraging that background to transition into Network Defense, specializing in <b>Supply Chain Security</b> and <b>Physical Infrastructure Protection</b>. 
