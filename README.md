@@ -42,7 +42,7 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 * **Hardware:** `PC Building` `Hardware Diagnostics` `Peripheral Configuration` `Windows 11 Admin`
 * **Networking:** `TCP/IP` `SLA Management` `ISP Troubleshooting` `Modem/Router Config` `Cloud Basics`
 * **Software:** `ServiceNow` `Remedy` `Salesforce` `Microsoft 365` `Microsoft Access`
-* **Security:** `Supply Chain Risk` `Policy Enforcement` `Access Control` `HIPAA Compliance` `Digital Safety`
+* **Security & Data:** `Supply Chain Risk` `Policy Enforcement` `Access Control` `HIPAA` `SQL` `Data Integrity`
 * **Analytics:** `Google Analytics` `SEO Auditing` `Excel Reporting` `Data Visualization`
 
 ---
@@ -51,7 +51,8 @@ I bridge the gap between operational "Process" and security "Protocol," ensuring
 
 **CompTIA Tech+ & A+ Pathway (Skillsoft & IRSC)**
 * **Status:** Certification Candidate
-* **Coursework Completed:** Software Development (Completed Feb 24, 2026), Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
+* **New Milestones (March 8, 2026):** **Data Backup and Recovery** & **Database Fundamentals**.
+* **Coursework Completed:** Software Development (Completed Feb 2026), Operating Systems Mastery, Software Components, Cloud Computing, Networking Concepts, Hardware Devices, & IT Essentials.
 * **Academic Prep:** Currently enrolled in CET 1178 (A+ Hardware) and CIS 1000 (Intro to IT).
 
 **Cisco Networking Academy**
